@@ -30,10 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humayyonahmed&" alt="humayyonahmed" /></p>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/humayyonahmed/humayyonahmed/output/snake.svg" alt="Snake animation" />
-
-###
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
