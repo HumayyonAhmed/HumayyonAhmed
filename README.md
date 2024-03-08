@@ -33,4 +33,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React JS tutorial: Building an expense tracker with local storage](https://thecodewizardry.com/react-js-tutorial-building-an-expense-tracker-with-local-storage/)
+- [Web Scraping with Python and Beautiful Soup: A Beginner’s Guide](https://thecodewizardry.com/web-scraping-with-python-and-beautiful-soup-a-beginners-guide/)
+- [ECMAScript 2023: Exploring the Exciting New Features](https://thecodewizardry.com/ecmascript-2023-exploring-the-exciting-new-features/)
+- [Unlock Ultra-Fast Performance with the Power of PWA Apps!](https://thecodewizardry.com/unlock-ultra-fast-performance-with-the-power-of-pwa-apps/)
+- [Mastering CSS Grid Layout: A Comprehensive Guide](https://thecodewizardry.com/mastering-css-grid-layout-a-comprehensive-guide/)
 <!-- BLOG-POST-LIST:END -->
